@@ -1,0 +1,336 @@
+
+/* Normalize */
+* {
+box-sizing: border-box;
+}
+
+/* jimeno default CSS */
+#jimeno {
+display: inline-block;
+}
+
+table {
+table-layout: fixed;
+border: none;
+border-collapse: collapse;
+}
+
+tbody {
+border: none;
+}
+
+tr {
+font-size: 10pt;
+font-family: Arial;
+min-height: 10px;
+}
+
+td {
+padding: 2px;
+line-height: normal;
+}
+
+input {
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+border: 1px solid #C2C2C2;
+border-radius: 2px;
+color: inherit;
+font-family: inherit;
+font-size: inherit;
+font-weight: inherit;
+padding: 2px;
+text-align: inherit;
+vertical-align: text-bottom;
+width: 100%;
+}
+
+input:disabled {
+border: none !important;
+color: inherit;
+-webkit-opacity: 1;
+-webkit-text-fill-color: inherit;
+}
+
+select {
+width: 100%;
+text-align: inherit;
+}
+
+p {
+margin: 0;
+}
+
+.in {
+text-align: right;
+}
+
+.in--string {
+text-align: left;
+}
+
+.out {
+text-align: right;
+}
+
+.out--string {
+text-align: left;
+}
+
+.hidden-cell {
+display: none;
+}
+
+.hidden-row {
+display: none;
+}
+
+textarea {
+width: 100%;
+}
+
+textarea:disabled {
+background-color: white;
+color : black;
+}
+
+.ce1 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 11pt;
+}
+.ce2 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce3 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 11pt;
+border: thin solid #000000;
+text-align: center;
+text-decoration: underline;
+font-weight: bold;
+}
+.ce4 {
+background-color: #BFBFBF;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+font-weight: bold;
+}
+.ce5 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+text-align: center;
+}
+.ce6 {
+background-color: #BFBFBF;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+font-weight: bold;
+}
+.ce7 {
+background-color: #BFBFBF;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce8 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+text-align: center;
+text-decoration: underline;
+font-weight: bold;
+}
+.ce9 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+text-align: start;
+}
+.ce10 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+}
+.ce11 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce12 {
+background-color: #FFE07D;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce13 {
+background-color: #DCE6F2;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce14 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border: thin solid #000000;
+text-align: center;
+}
+.ce15 {
+background-color: #C3D69B;
+color: #000000;
+font-family: Calibri;
+font-size: 12pt;
+border-top: 2pt solid #000000;
+border-bottom: 2pt solid #000000;
+border-left: 2pt solid #000000;
+border-right: thin solid #000000;
+text-align: center;
+font-weight: bold;
+}
+.ce16 {
+background-color: #C3D69B;
+color: #000000;
+font-family: Calibri;
+font-size: 12pt;
+border-top: 2pt solid #000000;
+border-bottom: 2pt solid #000000;
+border-left: thin solid #000000;
+border-right: 2pt solid #000000;
+text-align: center;
+font-weight: bold;
+}
+.ce17 {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 10pt;
+border-top: thin solid #000000;
+border-bottom: none;
+border-left: thin solid #000000;
+border-right: thin solid #000000;
+text-align: center;
+}
+.T1 {
+background-color: transparent;
+color: #000000;
+font-family: Tahoma;
+font-size: 9pt;
+font-style: normal;
+font-weight: bold;
+}
+.co1 {
+width: 19px;
+}
+.co2 {
+width: 218px;
+}
+.co3 {
+width: 187px;
+}
+.co4 {
+width: 80px;
+}
+.co5 {
+width: 64px;
+}
+.ro1 {
+height: 15pt;
+}
+.ro2 {
+height: 17.25pt;
+}
+.ro3 {
+height: 46.5pt;
+}
+.ro4 {
+height: 12.75pt;
+}
+.ro5 {
+height: 15.75pt;
+}
+.Default {
+background-color: transparent;
+color: #000000;
+font-family: Calibri;
+font-size: 11pt;
+}
+
+
+        .tabs-list {
+height: 30px;
+margin: -1px;
+padding: 0;
+}
+
+.tabs-list li {
+height: 30px;
+line-height: 30px;
+list-style: none;
+float: left;
+background-color: #ccc;
+border-top: 1px solid #d4d4d1;
+border-right: 1px solid #d4d4d1;
+border-left: 1px solid #d4d4d1;
+margin-right: 5px;
+}
+
+.tabs-list li.active {
+position: relative;
+background-color: #fff;
+border-bottom: 1px solid #fff;
+z-index: 5;
+}
+
+.tabs-list li a {
+padding: 10px;
+color: #595959;
+text-decoration: none;
+}
+
+.tabs-list .active a {
+color: #000;
+}
+
+.tabs {
+border: 1px solid #d4d4d1;
+background-color: #fff;
+margin-bottom: 20px;
+}
+
+.tab-content {
+padding: 10px;
+display: none;
+}
+
+.tab-content.active {
+display: block;
+}

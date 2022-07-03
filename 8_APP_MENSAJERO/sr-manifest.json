@@ -1,0 +1,113 @@
+{
+    "dir": "ltr",
+    "lang": "es",
+    "name": "Gimeno",
+    "scope": "/MENS_R213/8_APP_MENSAJERO/index.php/coso",
+    "display": "fullscreen",
+    "start_url": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/index.php/coso",
+    "short_name": "Gimeno",
+    "theme_color": "transparent",
+    "description": "Cálculos Gimeno",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/b77a3bbe-cafb-ca93-86e9-0fe3f56cc49c.webPlatform.png",
+            "sizes": "44x44",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/dfe03e3b-38e4-1515-fe3a-e1981e06a802.webPlatform.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/20f3a790-ee57-f8c8-2d1d-238e7f639fce.webPlatform.png",
+            "sizes": "1240x600",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/3b55d450-c963-89a4-59af-9ee8d8697312.webPlatform.png",
+            "sizes": "300x300",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/43cae4b7-b755-d509-d6ea-5c6281fd26eb.webPlatform.png",
+            "sizes": "150x150",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/54a62d80-e980-75a0-d478-19f2b8a97db6.webPlatform.png",
+            "sizes": "88x88",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/70a9fb35-24e9-1733-47a9-b0c02bb196db.webPlatform.png",
+            "sizes": "24x24",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/7bce8efc-4b98-3cd1-501b-cbfdb9dbd3df.webPlatform.png",
+            "sizes": "50x50",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/4f9f0643-c3bc-0189-169b-a1949cc8fa95.webPlatform.png",
+            "sizes": "620x300",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/2ef76768-69f3-4eda-4d03-35ed093ed2d7.webPlatform.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/aee1191a-ae2b-72b2-5c10-a3b438f542af.webPlatform.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/bb299dd7-caf8-5f53-91b7-fa34d95b68ba.webPlatform.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/4b24c19c-49a8-52dd-5811-eba2b14defa6.webPlatform.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/815836d4-05e3-1278-61fa-6ad8c97bef8c.webPlatform.png",
+            "sizes": "36x36",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/3faf7e9d-d65a-ab98-cde4-3dff5342147d.webPlatform.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/49a60040-3f54-7302-5c20-5b66c78a5a5d.webPlatform.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/d38ef22a-e3ae-c8dc-3f6c-509dc87958bb.webPlatform.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/5f874a94-3e91-4fa4-b121-f27c210a6fc4.webPlatform.png",
+            "sizes": "120x120",
+            "type": "image/png"
+        },
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/coso/manifest/web/Images/7746e042-885b-66c4-607d-1d8014a8e2d0.webPlatform.png",
+            "sizes": "76x76",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": []
+}

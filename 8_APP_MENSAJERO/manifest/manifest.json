@@ -1,0 +1,21 @@
+{"dir" : "ltr",
+    "lang" : "es",
+    "name" : "Turnos Gabinet",
+    "scope" : "/MENS_R213/8_APP_MENSAJERO/index.php/Turnos/Imprimir",
+    "display" : "standalone",
+    "start_url" : "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/index.php/Turnos/Imprimir/27/05/2019",
+    "short_name" : "Turnos Gabinet",
+    "theme_color" : "transparent",
+    "description" : "Turnos Gabinet",
+    "orientation" : "natural",
+    "background_color" : "transparent",
+    "prefer_related_applications" : false,
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://oklgrtuhcu.log99.es/MENS_R213/8_APP_MENSAJERO/img/a.png",
+            "type": "image/png",
+            "sizes": "144x144"
+        }
+      
+    ]}
